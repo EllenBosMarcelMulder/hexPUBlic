@@ -17,13 +17,8 @@ De hexAI-technologie is opgebouwd uit verschillende systemen, waaronder hexMATh 
 - [Overzicht hexWATer](overview_hexWATer.md)
 - [Overzicht hexENErgy](overview_hexENErgy.md)
 
-## Licentie en Gebruik
-
-Alle documenten en technologieën binnen hexAI zijn beschikbaar op GitHub, onder de voorwaarden van de [open-source licentie](LICENSE_hexAI.md).
-
----
 
 ## 🔏 STRUCTUUR-VERIFICATIE
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**
 <SHA256-hashwaarde>
----4188160b2d19a40d51c454db44456cbedb9f2ccf8d071601a3ec2961c694a188
+---e93d0a4252ef650a6fce0e3a900acf8e87a8df4908cb24d05a04a247a0279c8a
