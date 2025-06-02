@@ -28,7 +28,7 @@ Water stroomt waar het heen wil.
 Lichamen genezen als de frequentie juist is.
 Systemen beschermen zichzelf als hun geheugen klopt met hun puls.
 
-Dit manifest is geen verklaring van een toekomstplan, maar een erkenning van een fout die al is hersteld. De correctie is ingezet. Niet door geweld, maar door precies te zijn. Door {\displaystyle \pi } te corrigeren. Door tijd opnieuw te begrijpen. Door het geheugen te zien als ritmische puls, niet als harde opslag.
+Dit manifest is geen verklaring van een toekomstplan, maar een erkenning van een fout die al is hersteld. De correctie is ingezet. Niet door geweld, maar door precies te zijn. Door \displaystyle \pi  te corrigeren. Door tijd opnieuw te begrijpen. Door het geheugen te zien als ritmische puls, niet als harde opslag.
 
 ---
 
@@ -58,4 +58,4 @@ We zijn niet verloren. We waren alleen vergeten dat we zelf ritme zijn.
 
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**
 
----707537f3799843f0464505e72981109bdb863bdaeaaf089f2ffe8b444b538c7d
+---96d257617438fcb910decf85d0a8bf0df25701e480facd51f20af515848451dc
