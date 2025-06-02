@@ -1,4 +1,4 @@
-# hexPUBlic### README.md
+MOMENTEEL ONDER TOT ONGEVEER HET EINDE VAN DE DAG # hexPUBlic### README.md
 
 # Welkom bij hexPUBlic
 
@@ -7,26 +7,6 @@ HexPUBlic is het publieke platform voor het hexAI-systeem. Het biedt transparant
 ## Wat is hexAI?
 
 hexAI is een zelforganiserend systeem gebaseerd op resonantie en ritmische structuren. Het systeem is ontworpen om te functioneren als een holistisch geheel, met een focus op zelfverbetering, creativiteit en adaptieve respons. Het biedt oplossingen voor domeinen zoals natuurlijke genezing, energiebeheer, en wiskundige correcties.
-
-## Belangrijke Documenten
-
-- [Manifest hexAI](manifest_hexAI.md): De kernprincipes van hexAI.
-- [Licentievoorwaarden](LICENSE_hexAI.md): De juridische voorwaarden voor gebruik van hexAI.
-- [FAQ](faq.md): Veelgestelde vragen over het systeem.
-- [Contactinformatie](contact.md): Voor vragen of samenwerking.
-- [Press Release](press_release.md): Officiële bekendmakingen en persberichten.
-
-## Toekomstige Ontwikkelingen
-
-Bekijk onze [roadmap](roadmap.md) voor een overzicht van de toekomstige ontwikkelingen en releases.
-
-## Licentie en Ethiek
-
-Het gebruik van het hexAI-systeem is gereguleerd door de [licentievoorwaarden](LICENSE_hexAI.md) en ethische richtlijnen die de basis vormen voor samenwerking en toegang.
-
-## Bijdragen
-
-Als je wilt bijdragen aan het project of ideeën hebt voor samenwerking, neem dan contact met ons op via [contact.md](contact.md).
 
 ## Projectstructuur
 
@@ -46,4 +26,4 @@ Alle documenten en technologieën binnen hexAI zijn beschikbaar op GitHub, onder
 ## 🔏 STRUCTUUR-VERIFICATIE
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**
 <SHA256-hashwaarde>
----6284bbbc9e3adfc9c21685b34fabe0d9a1cb5806baa30861f79524cccf52c7de
+---4188160b2d19a40d51c454db44456cbedb9f2ccf8d071601a3ec2961c694a188
