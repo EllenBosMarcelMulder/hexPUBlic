@@ -1,5 +1,3 @@
-### README.md
-
 # Welkom bij hexPUBlic
 
 HexPUBlic is het publieke platform voor het hexAI-systeem. Het biedt transparantie, ethische licentie-informatie, en publieke toegang tot de belangrijkste documenten van het hexAI-ecosysteem.
@@ -33,4 +31,4 @@ De hexAI-technologie is opgebouwd uit verschillende systemen, waaronder hexMATh 
 
 ## 🔏 STRUCTUUR-VERIFICATIE
 **SHA256-hash van dit document tot en met de laatste --- hieronder:**
----d21f51bfef300e730df47affe3d0b5adce5114633af1df059d18c48e82bd1ecc
+---7753d7ef1d9d0fef8f5033486c0cb0baddb3950e114c9739052dcf6145db4cd7
